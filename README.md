@@ -1,2 +1,1 @@
-# Automation-of-Testing-Result-Documentation
-VBA
+## Automation of Testing Result Documentation
